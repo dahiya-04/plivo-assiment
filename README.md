@@ -1,8 +1,3 @@
-Absolutely — here is the **copy-paste ready raw Markdown text** for your GitHub `README.md`.
-
-Just copy this block and paste it directly into GitHub — no extra formatting needed 👇
-
----
 
 ```md
 # 📌 PII Detection on Noisy ASR Text (Plivo Assignment)
