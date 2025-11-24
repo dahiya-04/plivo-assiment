@@ -149,7 +149,7 @@ CUDA_VISIBLE_DEVICES="" python src/measure_latency.py \
 | **PII Precision**                  | **0.859** |
 | **PII Recall**                     | 0.957     |
 | **PII F1**                         | **0.905** |
-| Macro F1                           | 0.487     |
+| Macro F1                           | 0.70     |
 | Latency (p95, CPU, batch size = 1) | ~5 ms     |
 
 ✔ Meets assignment requirements.
@@ -185,13 +185,4 @@ Feel free to reach out for discussion or issues.
 
 ---
 
-### Done 🎉
 
-If you want, I can also generate:
-
-- `.gitignore`
-- LICENSE file
-- GitHub badges (model size, accuracy, latency)
-
-Want that? 😊
-```
